@@ -2,6 +2,8 @@
 
 ## A very basic pipeline and workers example
 
+Repeat the following request while changing ids and other properties, and watch the cli response.
+
 ```
 
 curl -X POST \
